@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "GPU Test Worker",
+  "description": "A simple worker to test GPU availability on RunPod",
+  "author": "KH93b",
+  "keywords": ["test", "gpu", "serverless"],
+  "license": "MIT",
+  "source": "https://github.com/KH93b/test_gpu"
+}
